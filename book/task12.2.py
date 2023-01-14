@@ -12,3 +12,4 @@ def counter_author(filepath, aouthor_name):
                     counter += 1
             return counter
     print(counter_author('Book.txt', 'AA'))
+    azaoflshovu;fbgz
