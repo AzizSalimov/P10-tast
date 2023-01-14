@@ -1,0 +1,4 @@
+If Aditi has stored the following content in the file WORDS.TXT:
+WELL, THJS JS A WORD BY JTSELF. YOU COULD STRETCH THJS TO BE A SENTENCE
+The function JTOI() should display the following content:
+WELL, THIS IS A WORD BY ITSELF. YOU COULD STRETCH THIS TO BE A SENTENCE
